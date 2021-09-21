@@ -36,10 +36,8 @@
         "laravel": {
             "providers": [
                 "HosseinSheikh\\QueryBehaviors\\Providers\\QueryBehaviorsServiceProvider"
-            ],
-            "aliases": {
-                "QueryBehaviors": "HosseinSheikh\\QueryBehaviors\\Facades\\QueryBehaviorsFacade"
-            }
+            ]
+
         }
     }
 }
